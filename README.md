@@ -40,6 +40,6 @@ Il faut vérifier l'input utilisateur et afficher un message d'erreur en cas de 
 Le sapin de Noël devra être centré dans la fenêtre.  
 La gestion des espaces en HTML pouvant être fastidieuse, il est autorisé d'utiliser le CSS pour aligner les étages de l'arbre.
 
-L'étoile au sommet devra être dessiner en _jaune_.
-Le feuillage de l'arbre sera en _vert_.
+L'étoile au sommet devra être dessiner en _jaune_.  
+Le feuillage de l'arbre sera en _vert_.  
 La bûche sera en _marron_.
